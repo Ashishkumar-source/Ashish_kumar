@@ -61,7 +61,7 @@
 
 ## 🌐 Connect With Me
 
-- 📧 Email: *(add your email here if you want)*
+- 📧 Email: *ashishlatiyan35@gmail.com*
 - 🐙 GitHub: https://github.com/Ashishkumar-source
 - 📍 Location: Dehradun, Uttarakhand
 
