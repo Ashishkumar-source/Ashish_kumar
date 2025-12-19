@@ -1,70 +1,70 @@
-# Ashish Kumar
+# 👋 Hi, I'm Ashish Kumar
 
-🎓 **B.Tech Computer Science Engineering (First Year)**  
-📍 Dehradun, Uttarakhand, India  
-
-## About Me
-
-Hello! I am **Ashish Kumar**, a first-year B.Tech Computer Science student with an interest in **programming fundamentals**, **Linux**, and **problem-solving**. I am currently building a strong foundation in core computer science concepts through academic coursework and self-practice.
-
-This GitHub repository contains my **practice programs, lab work, assignments, and learning experiments** as I progress through my degree.
+💻 Passionate Learner | 🐧 Linux Enthusiast | 🌱 B.Tech CSE Student from Dehradun
 
 ---
 
-## Skills & Technologies
+## 📌 About Me
 
-### Programming Languages
-- C (Beginner – Intermediate)
-- Python (Beginner)
+- 🏠 From **Dehradun, Uttarakhand, India**
+- 🎓 **B.Tech Computer Science Engineering (First Year)**
+- 🌱 Currently learning **Linux System Administration & C Programming**
+- 💬 Ask me about **Linux commands, Shell scripting, and C fundamentals**
+- ⚡ Fun fact: I enjoy solving problems through small programs and automation
 
-### Operating Systems
-- Linux (Basic commands, shell usage)
+---
 
-### Tools
+## 🚀 Featured Repositories
+
+### 🐧 Linux Learning & Scripting
+
+| Repository | Description | Language |
+|---------|------------|----------|
+| **linux_lab** | 📘 Linux basics, commands, and lab practice | Shell |
+| **linux_tools** | ⚙️ Hands-on Linux tools & shell scripts | Shell |
+
+---
+
+### 💻 Programming & Practice
+
+| Repository | Description | Language |
+|---------|------------|----------|
+| **100_days_of_code-main** | 🔥 My journey of consistent coding & problem-solving | C |
+| **python** | 🐍 Beginner-level Python practice programs | Python |
+
+---
+
+### 📂 Academic & Personal Repositories
+
+| Repository | Description | Language |
+|---------|------------|----------|
+| **assignment_linux_lab_** | 📝 College Linux lab assignments | Shell |
+| **Ashishkumar-source** | 🌟 My GitHub profile repository | Markdown |
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+- C
+- Python
+- Shell Scripting
+- HTML (Basic)
+
+### Tools & Platforms
+- Linux
 - Git & GitHub
-- Command Line Interface (CLI)
+- VS Code
+- Terminal
 
 ---
 
-## Repository Contents
+## 🌐 Connect With Me
 
-This repository may include:
-
-- C programming practice files  
-- Linux lab work and commands  
-- Python beginner programs  
-- College assignments  
-- Mini projects and experiments  
+- 📧 Email: *(add your email here if you want)*
+- 🐙 GitHub: https://github.com/Ashishkumar-source
+- 📍 Location: Dehradun, Uttarakhand
 
 ---
 
-## Learning Objectives
-
-- Strengthen logical thinking and problem-solving  
-- Gain confidence in C programming  
-- Learn data structures and algorithms  
-- Improve Linux and Git skills  
-- Build real-world projects step by step  
-
----
-
-## How to Use This Repository
-
-1. Navigate folders based on topic or subject  
-2. Each file is written for learning purposes  
-3. Code may be updated as skills improve  
-
-Suggestions and improvements are welcome.
-
----
-
-## Connect With Me
-
-- GitHub: https://github.com/Ashishkumar-source
-
----
-
-## Disclaimer
-
-This repository is maintained for **educational purposes**.  
-Code quality and structure will improve with experience.
+> ✨ *“Every great developer started as a beginner who never gave up.”* ✨
